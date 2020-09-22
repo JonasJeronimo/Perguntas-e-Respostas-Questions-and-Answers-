@@ -1,2 +1,1 @@
-# Meus-programas
-Alguns programas que eu criei e quis compartilhar com o mundo (Some programs that I created and wanted to share with the world)
+Fique à vontade para modificar o programa, mas não se esqueça de me dar os créditos ;) (Feel free to modify the program, but don't forget to credit me;))
